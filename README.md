@@ -1,4 +1,4 @@
-# Final work1
+# Final work
  Контрольная работа
 ```markdown
 Описание задачи
